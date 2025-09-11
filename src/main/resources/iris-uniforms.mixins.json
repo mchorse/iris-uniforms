@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "mchorse.iris_uniforms.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

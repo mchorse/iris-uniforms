@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "mchorse.iris_uniforms.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"CustomUniformsAccessor",
+		"CustomUniformsBuilderMixin",
+		"JcppProcessorMixin",
+		"ShaderPackMixin",
+		"IrisMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
